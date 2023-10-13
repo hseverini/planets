@@ -1,0 +1,6 @@
+*.csv
+*.dat
+*.data
+results/
+plots/
+data/
